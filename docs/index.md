@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contact
 
-[contact]{% link contact.md %}
+[contact](contact.md)
 
 ### アプリ
 
