@@ -8,10 +8,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### アプリ
 
 - 電話が切れたら切れる
-
-
-
-### お問合せ
-
-- twitter: [@3colorr](https://twitter.com/3colorr)
-- 3colorr@gmail.com
