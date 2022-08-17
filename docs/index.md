@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contact
 
-[contact](contact.md)
+[contact](https://github.com/3colorr/works/edit/main/docs/contact.md)
 
 ### アプリ
 
