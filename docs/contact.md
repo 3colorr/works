@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: https://3colorr.github.io/works/contact
 ---
 
 ### お問合せ
