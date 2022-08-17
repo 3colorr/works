@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 ### お問合せ
 
 - twitter: [@3colorr](https://twitter.com/3colorr)

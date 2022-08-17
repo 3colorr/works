@@ -9,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [contact](contact.md)
 
+[about](about.md)
+
 ### アプリ
 
 - 電話が切れたら切れる
