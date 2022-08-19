@@ -13,4 +13,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### アプリ
 
-- 電話が切れたら切れる
+- [電話が切れたら切れる](hangup-and-vib.md)
