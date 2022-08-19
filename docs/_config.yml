@@ -32,8 +32,9 @@ github_username:  3colorr
 # Build settings
 # def:minima
 theme: jekyll-theme-cayman
-#plugins:
-#  - jekyll-feed
+
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
