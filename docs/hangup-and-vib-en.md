@@ -5,6 +5,7 @@
 - <a href="#faq">Frequently Asked Questions</a>
 - <a href="#terms-of-service">Terms of Service</a>
 - <a href="#privacy-policy">Privacy Policy</a>
+- <a href="#contact">お問合せ</a>
 
 # <span id="quick-start">Quick Start</span>
 
@@ -37,3 +38,8 @@ The Apps Only refer to your smartphone state that is "Incoming Call", "Hangs Up"
 ### User's e-mail address
 
 I may know the user's email address when I receive a question from the user. The user's email address will only be used to reply to the user who asked the question. After answering the question, we delete the user's email address immediately. We never be shared with third parties.
+
+# <span id="contact">Contact</span>
+
+Please contact us here.  
+[TOP：Others](index.md#others)
