@@ -1,15 +1,73 @@
 # Hangs up and vibrate
-このアプリは
+Have you ever thought that you want a smartphone to react as easily as you can understand when a call hangs up?
+
+With this application, you can add the function that smartphone vibrates when a call hangs up.
+
+Easy setting.  
+Just launch the application and turn on the switch.
 
 - <a href="#quick-start">Quick Start</a>
 - <a href="#faq">Frequently Asked Questions</a>
 - <a href="#terms-of-service">Terms of Service</a>
 - <a href="#privacy-policy">Privacy Policy</a>
-- <a href="#contact">お問合せ</a>
+- <a href="#contact">Contact</a>
 
 # <span id="quick-start">Quick Start</span>
 
+1. Launch the app
+1. Press "the Open Settings" button
+1. Allow permission that access to phone
+1. Return to the app
+1. Choose a vibration pattern
+
+Preparations are now complete.
+Let's try.
+
 # <span id="faq">Frequently Asked Questions</span>
+
+- I chose a vibration pattern, but it doesn't vibrate when I hang up the phone
+  - Your phone may have disabled access to the phone. Please check your permission settings and allow it if it is disabled. Please check "<a href="#quick-start">Quick Start</a>" for how to grant access rights.
+
+---
+
+- I allowed permission to access the phone on my phone, but it doesn't vibrate when I hang up
+  - The vibration pattern may be set to "do not vibrate". Please check "<a href="#quick-start">Quick Start</a>" for how to set the vibration pattern.
+
+---
+
+- They all have the same vibration pattern
+  - Depending on the smartphone model, it may not work properly. Since this application is developed by an individual, it is not possible to check the operation on all smartphones. Please use it as it is, or UNINSTALL THIS APPLICATION and stop using it.
+
+---
+
+- After installing the app for a while, the operation during a call becomes slow
+  - First, uninstall this app and check if the symptoms improve. If the symptoms improve, please stop using this app or reinstall it and see how it goes. Please use your smartphone so that you do not feel stressed.
+  - If the symptoms do not improve, there may be other causes, but we cannot investigate them. note that.
+
+---
+
+- It used to vibrate when I hung up the phone, but suddenly it stopped vibrating
+  - If your smartphone is "Android 12", if you do not use the app for a certain period of time, the access authority to the phone may be automatically deleted for safety. If the access to the phone is removed, the phone will not vibrate after hanging up. In that case, please reset the access authority to the phone.
+
+---
+
+- After clearing the app cache, the phone no longer vibrates when hung up
+  - App settings may have been reset. Check the vibration pattern and access permissions to the phone.
+
+---
+
+- When I tried to change the vibration pattern after updating the app, the app ended with an error or stopped launching
+  - Try resetting the app (clear data and cache).
+    1. Go to [Settings] > [Apps & notifications (or apps)] > [Hangs up and vibrate] > [Storage]
+    1. Execute [Clear Cache] and [Clear Data] or [Clear Storage]
+    1. Launch the app
+
+---
+
+- I've tried resetting the app, but the app crashes or doesn't start
+  - If clearing the data and cache does not help, please uninstall the app and install it again.
+
+---
 
 # <span id="terms-of-service">Terms of Service</span>
 
