@@ -6,6 +6,8 @@
 設定はカンタンです。  
 アプリを起動して、振動するパターンを選ぶだけです。
 
+ダウンロードはこちら:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.ichigo)
+
 - <a href="#quick-start">使い方</a>
 - <a href="#faq">困ったときは？</a>
 - <a href="#terms-of-service">利用規約</a>

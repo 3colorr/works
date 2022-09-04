@@ -6,6 +6,8 @@ With this application, you can add the function that smartphone vibrates when a 
 Easy setting.  
 Just launch the application and turn on the switch.
 
+Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.ichigo)
+
 - <a href="#quick-start">Quick Start</a>
 - <a href="#faq">Frequently Asked Questions</a>
 - <a href="#terms-of-service">Terms of Service</a>
