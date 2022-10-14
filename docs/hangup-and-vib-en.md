@@ -66,6 +66,11 @@ Let's try.
 
 ---
 
+- After updating the app, the phone no longer vibrates when hung up
+  - Try launch the app
+
+---
+
 - I've tried resetting the app, but the app crashes or doesn't start
   - If clearing the data and cache does not help, please uninstall the app and install it again.
 
