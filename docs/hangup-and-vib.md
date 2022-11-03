@@ -15,8 +15,9 @@
 - <a href="#contact">お問合せ</a>
 
 # 動作確認済みの端末
-- Google Pixel 3 Android 11
-- Google Pixel 7 Android 13
+- Google Pixel 3  Android 11
+- Google Pixel 4a Android 13
+- Google Pixel 7  Android 13
 
 # <span id="quick-start">使い方</span>
 

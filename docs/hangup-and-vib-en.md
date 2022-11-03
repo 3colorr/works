@@ -14,6 +14,11 @@ Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.
 - <a href="#privacy-policy">Privacy Policy</a>
 - <a href="#contact">Contact</a>
 
+# Operation has been confirmed
+- Google Pixel 3  Android 11
+- Google Pixel 4a Android 13
+- Google Pixel 7  Android 13
+
 # <span id="quick-start">Quick Start</span>
 
 1. Launch the app
