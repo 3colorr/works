@@ -15,9 +15,9 @@
 - <a href="#contact">お問合せ</a>
 
 # 動作確認済みの端末
-- Google Pixel 3  Android 11
-- Google Pixel 4a Android 13
-- Google Pixel 7  Android 13
+- Google Pixel 3 Android 11
+- Google Pixel 7 Android 13
+- Google Pixel 8 Android 14
 
 # <span id="quick-start">使い方</span>
 
@@ -28,7 +28,17 @@
 1. 振動パターンを選びます
 
 これで準備は完了です。  
-電話を受けて、試してみましょう。
+電話を受けて、試してみましょう。  
+
+アプリのバージョン7.0以降ですと、振動のつよさを選択できます。  
+選べるつよさは２つです。    
+- ふつう
+  - お使いのスマホで「ふつう」とされている強さです
+- 精一杯
+  - お使いのスマホで振動できる最大の強さです
+
+ただし、お使いのスマホによっては振動のつよさが変わらないかもしれません。  
+なぜなら、振動のつよさを変える方法がスマホによって違うからです。  
 
 # <span id="faq">困ったときは？</span>
 
