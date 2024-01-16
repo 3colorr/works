@@ -15,9 +15,9 @@ Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.
 - <a href="#contact">Contact</a>
 
 # Operation has been confirmed
-- Google Pixel 3  Android 11
-- Google Pixel 4a Android 13
-- Google Pixel 7  Android 13
+- Google Pixel 3 Android 11
+- Google Pixel 7 Android 13
+- Google Pixel 8 Android 14
 
 # <span id="quick-start">Quick Start</span>
 
@@ -29,6 +29,16 @@ Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.
 
 Preparations are now complete.
 Let's try.
+
+With app version 7.0 or later, you can choose the strength of vibration.  
+There are two strength.  
+- Default
+  - This is the strength of vibration that is considered "default" for your smartphone.
+- Do your best
+  - This is the strength of vibration that is considered "Maximum" for your smartphone.
+
+But, depending on your smartphone, the strength of the vibration may not change.  
+Because, the method of changing the strength of the vibration differ depending on the smartphone.  
 
 # <span id="faq">Frequently Asked Questions</span>
 
