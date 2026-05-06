@@ -6,7 +6,7 @@
 設定はカンタンです。  
 アプリを起動して、振動するパターンを選ぶだけです。
 
-ダウンロードはこちら:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.ichigo)
+ダウンロードはこちら:[Google Play](https://play.google.com/store/apps/details?id=com.a3colorr.hangsupandvibrate)
 
 - <a href="#quick-start">使い方</a>
 - <a href="#faq">困ったときは？</a>
@@ -15,9 +15,8 @@
 - <a href="#contact">お問合せ</a>
 
 # 動作確認済みの端末
-- Google Pixel 3 Android 11
-- Google Pixel 7 Android 13
-- Google Pixel 8 Android 14
+- Google Pixel 4a Android 13
+- Google Pixel 8  Android 16
 
 # <span id="quick-start">使い方</span>
 

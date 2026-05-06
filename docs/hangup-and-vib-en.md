@@ -6,7 +6,7 @@ With this application, you can add the function that smartphone vibrates when a 
 Easy setting.  
 Just launch the application and turn on the switch.
 
-Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.ichigo)
+Download:[Google Play](https://play.google.com/store/apps/details?id=com.a3colorr.hangsupandvibrate)
 
 - <a href="#quick-start">Quick Start</a>
 - <a href="#faq">Frequently Asked Questions</a>
@@ -15,9 +15,8 @@ Download:[Google Play](https://play.google.com/store/apps/details?id=com.boxjar.
 - <a href="#contact">Contact</a>
 
 # Operation has been confirmed
-- Google Pixel 3 Android 11
-- Google Pixel 7 Android 13
-- Google Pixel 8 Android 14
+- Google Pixel 4a Android 13
+- Google Pixel 8  Android 16
 
 # <span id="quick-start">Quick Start</span>
 
