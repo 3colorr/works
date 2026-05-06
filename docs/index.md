@@ -6,7 +6,7 @@
 ### アプリ
 
 - [電話が切れたら切れる](hangup-and-vib.md)
-  - [Google Playページ](https://play.google.com/store/apps/details?id=com.boxjar.ichigo)
+  - [Google Playページ](https://play.google.com/store/apps/details?id=com.a3colorr.hangsupandvibrate)
   - 電話を切るとスマホが振動する機能を追加するアプリです
   - Android向けアプリです。iOS向けにも作ろうとしましたが、調べ方が悪かったのか、iOSの制限を回避できませんでした
 
